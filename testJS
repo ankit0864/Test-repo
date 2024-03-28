@@ -1,0 +1,7 @@
+test = 'test var';
+
+
+function myFunction(){
+console.log('Console result');
+return 'test return';
+}
